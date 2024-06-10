@@ -5,7 +5,7 @@ This project demonstrates the process of fine-tuning a language model using the 
 
 ## Files
 
-- `Copy_of_LLM_Fine_Tuning_Project_with_IMDB_Dataset.ipynb`: Jupyter Notebook with the code for the fine-tuning process.
+- `LLM_Fine_Tuning_Project_with_IMDB_Dataset.ipynb`: Jupyter Notebook with the code for the fine-tuning process.
 
 ## Steps to Improve Fine-Tuning
 
